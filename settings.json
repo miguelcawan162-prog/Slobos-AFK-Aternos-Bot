@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AmigosDC-X8XE.aternos.me",
+    "ip": "AmigosDC-X8XE.aternos.me:32821",
     "port": 32821,
     "version": "1.21.1",
     "try-creative": false
